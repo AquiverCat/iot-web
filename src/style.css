@@ -1,0 +1,13 @@
+.header {
+    background: #fff;
+
+}
+
+.content {
+    min-height: 600px;
+}
+
+.footer {
+    border-top: 1px solid #999;
+    text-align: center;
+}
